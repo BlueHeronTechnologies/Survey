@@ -1,0 +1,9 @@
+flask
+flask-socketio
+eventlet
+pyserial
+pynmea2
+numpy
+scipy
+bluerobotics-ping
+flask-mbtiles
